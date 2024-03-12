@@ -1,0 +1,21 @@
+
+body{
+    .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+} 
+
+.name-highlight{
+    color: orange;
+}
+.haf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.haf-width img{
+    width: 100%;
+}
